@@ -7,14 +7,6 @@ I bring a **structured, analytical approach to unstructured problems**, balancin
 
 ---
 
-## 📌 Summary
-
-<p align="center">
-<img width="416" height="622" alt="image" src="https://github.com/user-attachments/assets/c8b257d0-7b2c-4c60-8496-29186f9b1f77" />
-</p>
-
----
-
 ### 🚀 About Me
 - 🔍 **Fast learner** with 3+ years in analytics, known for turning chaos into clarity  
 - 🤖 Passionate about **Artificial Intelligence**, with hands-on NLP, clustering, forecasting, and optimization  
