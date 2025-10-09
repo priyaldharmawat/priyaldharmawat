@@ -5,7 +5,7 @@ I thrive in fast-paced environments, and I learn like a sponge 🧠⚡
 I'm the person who will deep-dive into any new tech, tool, or method and **actually ship something with it**.
 
 <p align="center">
-  ![50390235_00201_0173_Medium](https://github.com/user-attachments/assets/3ae80105-986d-46d7-996b-b3a0829988b3)
+  ![50390235_00201_0173_Medium](https://github.com/user-attachments/assets/a0ee80a8-b794-40ca-b788-84bd50000ee3)
 </p>
 
 ---
