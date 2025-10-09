@@ -2,10 +2,16 @@
 
 Super adaptive, curious about everything — especially data, AI, and the systems behind how things work.  
 I thrive in fast-paced environments, and I learn like a sponge 🧠⚡  
-I'm the person who will deep-dive into any new tech, tool, or method and **actually ship something with it**.
+
+I bring a **structured, analytical approach to unstructured problems**, balancing logic with business empathy.
+
+---
+
+## 📌 Summary
 
 <p align="center">
-  ![50390235_00201_0173_Medium](https://github.com/user-attachments/assets/a0ee80a8-b794-40ca-b788-84bd50000ee3)
+  ![50390235_00201_0173_Medium](https://github.com/user-attachments/assets/3c87f7a2-b1db-4504-a6a6-6282a9eaa004)
+
 </p>
 
 ---
@@ -28,7 +34,12 @@ I'm the person who will deep-dive into any new tech, tool, or method and **actua
 ---
 
 ### 🎓 Education
-- 🎓 Masters in Analytics (Applied Machine Intelligence) – Northeastern University, Toronto  
+- 🎓 Master's in Analytics (Applied Machine Intelligence) – Northeastern University, Toronto  
 - 🎓 Bachelor of Computer Engineering – NMIMS University, India  
 
 ---
+
+## 🏸 Beyond the Data
+- 🥎 National & state-level softball player(India)  
+- 🏸 Badminton enthusiast and dancer  
+- 📚 Lifelong learner — currently diving into GenAI, LLMs, and Agentic AI
