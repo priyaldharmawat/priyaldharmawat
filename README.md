@@ -10,8 +10,7 @@ I bring a **structured, analytical approach to unstructured problems**, balancin
 ## 📌 Summary
 
 <p align="center">
-  ![50390235_00201_0173_Medium](https://github.com/user-attachments/assets/3c87f7a2-b1db-4504-a6a6-6282a9eaa004)
-
+(https://github-production-user-asset-6210df.s3.amazonaws.com/46607396/499594567-3c87f7a2-b1db-4504-a6a6-6282a9eaa004.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251009T230322Z&X-Amz-Expires=300&X-Amz-Signature=6db5cd7505358609622986315b5423ee44bd5b17d13c53526f0fa6660324b443&X-Amz-SignedHeaders=host)
 </p>
 
 ---
