@@ -8,7 +8,7 @@ I bring a **structured, analytical approach to unstructured problems**, balancin
 ---
 
 ### 🚀 About Me
-- 🔍 **Fast learner** with 3+ years in analytics, known for turning chaos into clarity  
+- 🔍 **Data-driven** problem solver with 3+ years in analytics, known for turning chaos into clarity  
 - 🤖 Passionate about **Artificial Intelligence**, with hands-on NLP, clustering, forecasting, and optimization  
 - 🔗 Thrive in **cross-functional environments**, translating messy data into decisions  
 - 🧪 Obsessed with **experimentation** — especially with new algorithms, data types, and tools  
