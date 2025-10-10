@@ -1,4 +1,4 @@
-###👋 Hi, I’m Priyal Dharmawat
+### 👋 Hi, I’m Priyal Dharmawat
 
 I design data solutions that solve real business problems — not just models that sit in notebooks.
 With 3+ years in analytics, machine learning, and business strategy, I bridge the gap between raw data and real impact.
