@@ -1,10 +1,11 @@
 ### 👋 Hi, I’m Priyal Dharmawat
 
+## 🧐 About Me
+
+I thrive at the intersection of data, strategy, and real-world impact.
+From building ML models to crafting dashboards — I turn noise into narrative.
 I design data solutions that solve real business problems — not just models that sit in notebooks.
 With 3+ years in analytics, machine learning, and business strategy, I bridge the gap between raw data and real impact.
-
-Whether it’s forecasting demand, predictive modeling, or uncovering insights hidden in millions of rows —
-I bring clarity, structure, and action to the table.
 
 
 ## 💼 Real-World Experience
@@ -20,11 +21,6 @@ I bring clarity, structure, and action to the table.
 - Tech & ML: NLP, Forecasting, Clustering, CNNs, TensorFlow, PyTorch, Kera, KNN
 - Analytics Stack: Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, SQL Server, Oracle
 - Statistics: Hypothesis Testing, A/B Testing, ANOVA, PCA, Factor Analysis
-
-## 🧐 About Me
-
-I thrive at the intersection of data, strategy, and real-world impact.
-From building ML models to crafting dashboards — I turn noise into narrative.
 
 ## 🏸 Beyond the Data
 
