@@ -1,36 +1,40 @@
-## Hey there, I'm Priyal 👋
+###👋 Hi, I’m Priyal Dharmawat
 
-Super adaptive, curious about everything — especially data, AI, and the systems behind how things work.  
-I thrive in fast-paced environments, and I learn like a sponge 🧠⚡  
+I design data solutions that solve real business problems — not just models that sit in notebooks.
+With 3+ years in analytics, machine learning, and business strategy, I bridge the gap between raw data and real impact.
 
-I bring a **structured, analytical approach to unstructured problems**, balancing logic with business empathy.
+Whether it’s forecasting demand, predictive modeling, or uncovering insights hidden in millions of rows —
+I bring clarity, structure, and action to the table.
 
----
 
-### 🚀 About Me
-- 🔍 **Data-driven** problem solver with 3+ years in analytics, known for turning chaos into clarity  
-- 🤖 Passionate about **Artificial Intelligence**, with hands-on NLP, clustering, forecasting, and optimization  
-- 🔗 Thrive in **cross-functional environments**, translating messy data into decisions  
-- 🧪 Obsessed with **experimentation** — especially with new algorithms, data types, and tools  
-- 📊 Comfortable handling both **structured and unstructured** data streams (social media, retail, finance)
+## 💼 Real-World Experience
 
----
+- Built demand forecasting and KPI dashboards that reduced stockouts and staffing costs at North of Brooklyn
+- Applied clustering and anomaly detection to optimize funding for 2,000+ nonprofits at Mass Culture
+- Automated high-volume financial reporting and resolved $10M+ data issues at Capgemini
 
-### 🧠 Skills:
-- **Languages & Tools**: Python, R, SQL, Bash, Excel, Tableau, Power BI, GitHub
-- **Machine Learning**: NLP, Clustering, Forecasting, Time Series, Deep Learning (CNN, VGG16), Scikit-learn, TensorFlow, PyTorch, Keras
-- **Data & Analytics**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SQL Server, Oracle
-- **Statistical Methods**: A/B Testing, Hypothesis Testing, ANOVA, PCA, Factor Analysis 
 
----
+## 📊 What I Bring to the Table
 
-### 🎓 Education
-- 🎓 Master's in Analytics (Applied Machine Intelligence) – Northeastern University, Toronto, Canada  
-- 🎓 Bachelor of Computer Engineering – NMIMS University, India  
+- Languages & Tools: Python, R, SQL, Bash, Excel, Tableau, Power BI
+- Tech & ML: NLP, Forecasting, Clustering, CNNs, TensorFlow, PyTorch, Kera, KNN
+- Analytics Stack: Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, SQL Server, Oracle
+- Statistics: Hypothesis Testing, A/B Testing, ANOVA, PCA, Factor Analysis
 
----
+## 🧐 About Me
+
+I thrive at the intersection of data, strategy, and real-world impact.
+From building ML models to crafting dashboards — I turn noise into narrative.
 
 ## 🏸 Beyond the Data
+
 - 🥎 National & state-level softball player(India)  
 - 🏸 Badminton enthusiast and dancer  
 - 📚 Lifelong learner — currently diving into GenAI, LLMs, and Agentic AI
+
+## 📬 Let’s Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/priyaldharmawat/
+- 📧 Email: priyaldharmawat@gmail.com
+
+## Let’s make data work — and build what matters. 🚀
