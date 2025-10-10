@@ -17,15 +17,15 @@ I bring a **structured, analytical approach to unstructured problems**, balancin
 ---
 
 ### 🧠 What I Do
-- **Data Science & Machine Learning**: predictive modeling, clustering, deep learning (CNNs)  
+- **Data Science & Machine Learning**: Predictive modeling, Clustering, Deep learning (CNNs)  
 - **Data Analytics**: SQL + Tableau + Python to generate automated insights  
-- **AI Solutions**: building real-time, scalable pipelines using APIs, dashboards, ML models  
-- **Visualization**: translating models into business-friendly stories with dashboards & storytelling  
+- **AI Solutions**: Building real-time, scalable pipelines using APIs, dashboards, ML models  
+- **Visualization**: Translating models into business-friendly stories with dashboards & storytelling  
 
 ---
 
 ### 🎓 Education
-- 🎓 Master's in Analytics (Applied Machine Intelligence) – Northeastern University, Toronto  
+- 🎓 Master's in Analytics (Applied Machine Intelligence) – Northeastern University, Toronto, Canada  
 - 🎓 Bachelor of Computer Engineering – NMIMS University, India  
 
 ---
