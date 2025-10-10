@@ -12,15 +12,15 @@ I bring a **structured, analytical approach to unstructured problems**, balancin
 - 🤖 Passionate about **Artificial Intelligence**, with hands-on NLP, clustering, forecasting, and optimization  
 - 🔗 Thrive in **cross-functional environments**, translating messy data into decisions  
 - 🧪 Obsessed with **experimentation** — especially with new algorithms, data types, and tools  
-- 📊 Comfortable handling both **structured and unstructured** data streams (social media, sensors, finance)
+- 📊 Comfortable handling both **structured and unstructured** data streams (social media, retail, finance)
 
 ---
 
-### 🧠 What I Do
-- **Data Science & Machine Learning**: Predictive modeling, Clustering, Deep learning (CNNs)  
-- **Data Analytics**: SQL + Tableau + Python to generate automated insights  
-- **AI Solutions**: Building real-time, scalable pipelines using APIs, dashboards, ML models  
-- **Visualization**: Translating models into business-friendly stories with dashboards & storytelling  
+### 🧠 Skills:
+- **Languages & Tools**: Python, R, SQL, Bash, Excel, Tableau, Power BI, GitHub
+- **Machine Learning**: NLP, Clustering, Forecasting, Time Series, Deep Learning (CNN, VGG16), Scikit-learn, TensorFlow, PyTorch, Keras
+- **Data & Analytics**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SQL Server, Oracle
+- **Statistical Methods**: A/B Testing, Hypothesis Testing, ANOVA, PCA, Factor Analysis 
 
 ---
 
