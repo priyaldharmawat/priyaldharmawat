@@ -10,9 +10,9 @@ With 3+ years in analytics, machine learning, and business strategy, I bridge th
 
 ## 💼 Real-World Experience
 
-- Built demand forecasting and KPI dashboards that reduced stockouts and staffing costs at North of Brooklyn
-- Applied clustering and anomaly detection to optimize funding for 2,000+ nonprofits at Mass Culture
-- Automated high-volume financial reporting and resolved $10M+ data issues at Capgemini
+- Built demand forecasting and KPI dashboards that reduced stockouts and staffing costs at North of Brooklyn.
+- Applied clustering and anomaly detection to optimize funding and revenue for 2,000+ nonprofits at Mass Culture.
+- Analyzed large banking and insurance datasets and resolved $10M+ data issues at Capgemini.
 
 
 ## 📊 What I Bring to the Table
