@@ -20,7 +20,7 @@ With 3+ years in analytics, machine learning, and business strategy, I bridge th
 - Languages & Tools: Python, R, SQL, Bash, Excel, Tableau, Power BI
 - Tech & ML: NLP, Forecasting, Clustering, CNNs, TensorFlow, PyTorch, Kera, KNN
 - Analytics Stack: Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, SQL Server, Oracle
-- Statistics: Hypothesis Testing, A/B Testing, ANOVA, PCA, Factor Analysis
+- Statistics: Hypothesis Testing, A/B Testing, ANOVA, PCA, Factor Analysis, Significance Testing, Regression and Correlation Analysis
 
 ## 🏸 Beyond the Data
 
